@@ -1,0 +1,19 @@
+.class {
+    background-color: #ffb0b0;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.class.cooler {
+    font-size: 24px;
+}
+
+#id2 {
+    color: #1621c4;
+    font-size: 36px;
+}
+
+#id4 {
+    background-color: #76ff76;
+    font-size: 24px;
+    font-weight: bold;
+}
